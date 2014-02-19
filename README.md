@@ -134,3 +134,7 @@ The names and logos for thoughtbot are trademarks of thoughtbot, inc.
 
 Dotfiles is © 2009-2013 thoughtbot, inc. It is free software and may be
 redistributed under the terms specified in the [LICENSE](LICENSE) file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ceritium/dotfiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
