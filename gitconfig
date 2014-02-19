@@ -28,3 +28,5 @@
 	email = ceritium@gmail.com
 [github]
 	user = ceritium
+[branch]
+	autosetupmerge = true
